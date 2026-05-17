@@ -1,25 +1,26 @@
-[Jean Sousa de Almeida]
-Estudante de Ciência da Computação, atualmente focado em desenvolvimento backend com Java e explorando o ecossistema Spring.
+# 👤 [Jean Sousa de Almeida]
 
-Sobre
-💻 Estudando Java, Spring Boot e PostgreSQL
+Olá! Sou estudante de ciencia da computação focado em criar soluções em sistemas e aprender novas tecnologias.  
 
-🌱 Aprendendo React para completar o stack full stack
+---
 
-📚 Sempre buscando escrever código limpo e bem estruturado
+## 💻 Tecnologias & Ferramentas
 
-Tecnologias
-Back-end
-Java • Spring Boot • PostgreSQL • REST APIs
+- **Linguagens:** Java / Python / JavaScript 
+- **Banco de Dados:** PostgreSQL & MySQL 
+- **Cloud / Infra:** AWS  
+- **Controle de Versão:** Git / GitHub  
 
-Front-end
-React • JavaScript • HTML • CSS
+---
 
-Ferramentas
-Git • Docker • Maven • Postman
+## 🚀 Áreas de Interesse
 
+- ciencia de dados
+- desenvolvimento de software     
 
-Contato
-https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white
+---
+
+## 🔗 Contato
+
+- **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/jeansousadealmeida/)  
+- **Portfólio:** [seu-portfolio](https://seusite.com)  
