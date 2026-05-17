@@ -25,6 +25,6 @@ Hello! I'm a computer science student focused on creating systems solutions and 
 
 ## 🔗 Contact
 
-- **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/jeansousadealmeida/)
+- **LinkedIn:** [Jean Sousa](https://www.linkedin.com/in/jeansousadealmeida/)
 
-- **Portfolio:** [your-portfolio](https://yourwebsite.com)
+- **Portfolio:** [Jean Dev](https://yourwebsite.com)
