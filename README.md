@@ -1,4 +1,4 @@
-# 👤 [Jean Sousa de Almeida]
+# 👤 Jean Sousa de Almeida
 
 Olá! Sou estudante de ciencia da computação focado em criar soluções em sistemas e aprender novas tecnologias.  
 
