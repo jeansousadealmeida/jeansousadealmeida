@@ -1,26 +1,30 @@
 # 👤 Jean Sousa de Almeida
 
-Olá! Sou estudante de ciencia da computação focado em criar soluções em sistemas e aprender novas tecnologias.  
+Hello! I'm a computer science student focused on creating systems solutions and learning new technologies.
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Technologies & Tools
 
-- **Linguagens:** Java / Python / JavaScript 
-- **Banco de Dados:** PostgreSQL & MySQL 
-- **Cloud / Infra:** AWS  
-- **Controle de Versão:** Git / GitHub  
+- **Languages:** Java / Python / JavaScript
 
----
+- **Databases:** PostgreSQL & MySQL
 
-## 🚀 Áreas de Interesse
+- **Cloud / Infrastructure:** AWS
 
-- ciencia de dados
-- desenvolvimento de software     
+- **Version Control:** Git / GitHub
 
 ---
 
-## 🔗 Contato
+## 🚀 Areas of Interest
 
-- **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/jeansousadealmeida/)  
-- **Portfólio:** [seu-portfolio](https://seusite.com)  
+- Data science
+- Software development
+
+---
+
+## 🔗 Contact
+
+- **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/jeansousadealmeida/)
+
+- **Portfolio:** [your-portfolio](https://yourwebsite.com)
